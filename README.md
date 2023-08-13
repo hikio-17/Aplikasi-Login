@@ -3,5 +3,7 @@ Sebuah Flow untuk membuat Aplikasi Login
 
 Alur Fitur Login:
   1. Memasukkan email dan password
-  2. Memvalidasi masukkan
-  3. Menamplikan halaman Home.
+  2. Memvalidasi masukkan.
+  3. Memvalidasi pengguna dengan deteksi wajah.
+  4. Masukkan nama ibu untuk validasi.
+  5. Menamplikan halaman Home.
